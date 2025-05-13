@@ -115,7 +115,7 @@
             <mxPoint x="550" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-mbs4QiIPxzAxQqpA-XK-27" value="配置更新" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="-mbs4QiIPxzAxQqpA-XK-27" value="首页展示" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="420" y="400" width="40" height="90" as="geometry" />
         </mxCell>
       </root>
