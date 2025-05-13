@@ -30,8 +30,8 @@
         <mxCell id="KvM0Xwn_I28mhd-elFdc-24" value="登录模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KvM0Xwn_I28mhd-elFdc-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="275" y="98" width="50" height="30" as="geometry" />
+        <mxCell id="KvM0Xwn_I28mhd-elFdc-26" value="未登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="275" y="98" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
