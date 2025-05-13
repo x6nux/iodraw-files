@@ -223,7 +223,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K1_1" value="生成安装标识" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="769" width="90" height="30" as="geometry" />
+          <mxGeometry x="275" y="778" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K1_2" value="部署Agent" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="769" width="80" height="30" as="geometry" />
@@ -240,10 +240,10 @@
             <mxPoint x="620" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CrRPFdTgsqD3QfDdHHDS-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="CrRPFdTgsqD3QfDdHHDS-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="K1_1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="730" as="sourcePoint" />
-            <mxPoint x="580" y="680" as="targetPoint" />
+            <mxPoint x="320" y="760" as="sourcePoint" />
+            <mxPoint x="370" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
