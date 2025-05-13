@@ -226,10 +226,10 @@
           <mxGeometry x="275" y="778" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K1_2" value="部署Agent" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="769" width="80" height="30" as="geometry" />
+          <mxGeometry x="390" y="779" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K1_3" value="采集上报" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="769" width="80" height="30" as="geometry" />
+          <mxGeometry x="490" y="779" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K1_4" value="监控状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="769" width="80" height="30" as="geometry" />
