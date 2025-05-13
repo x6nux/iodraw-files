@@ -22,8 +22,8 @@
         <mxCell id="KvM0Xwn_I28mhd-elFdc-8" value="登录模块" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KvM0Xwn_I28mhd-elFdc-10" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="130" width="130" height="80" as="geometry" />
+        <mxCell id="KvM0Xwn_I28mhd-elFdc-10" value="是否登录" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="130" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
