@@ -36,12 +36,12 @@
         </mxCell>
         <mxCell id="Qc-PThqEU5D3QssbB8zo-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Qc-PThqEU5D3QssbB8zo-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1050" y="410" as="sourcePoint" />
-            <mxPoint x="920" y="250" as="targetPoint" />
+            <mxPoint x="770" y="210" as="sourcePoint" />
+            <mxPoint x="640" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qc-PThqEU5D3QssbB8zo-11" value="电子邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="210" width="120" height="50" as="geometry" />
+          <mxGeometry x="750" y="10" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qc-PThqEU5D3QssbB8zo-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Qc-PThqEU5D3QssbB8zo-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="Qc-PThqEU5D3QssbB8zo-18" value="用户密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="90" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc-PThqEU5D3QssbB8zo-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
