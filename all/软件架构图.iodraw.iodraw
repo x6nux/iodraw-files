@@ -1,0 +1,127 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="7jLh_gTkBl7bbCGitTS4">
+    <mxGraphModel dx="1064" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-1" value="基于VUE和Golang的网络资产管理系统架构" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="120" y="60" width="800" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-2" value="视图层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="140" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-3" value="接口层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-4" value="业务逻辑层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="390" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-5" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-6" value="运行环境" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="620" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-7" value="Ubuntu 22.04" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="620" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-8" value="Docker 28.0.4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="620" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-10" value="Golang 1.24" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="620" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-11" value="Node.js 20.17.0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="620" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-14" value="关系型数据库Mysql/Sqlite" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="530" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-15" value="非关系型数据库 Redis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="530" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-16" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="390" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-17" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-18" value="权限认证" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="385" y="390" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-19" value="Agent管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="385" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-20" value="双因素认证" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="390" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-21" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-22" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="390" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-23" value="实时数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-24" value="角色管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="390" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-25" value="历史数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-26" value=".........." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="390" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-28" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;HTTP请求" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="280" y="300" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-29" value="Get请求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="385" y="315" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-30" value="Post请求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="475" y="315" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-31" value="Put请求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="315" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-33" value="Delete请求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="645" y="315" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-34" value="WebSocket请求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="315" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-35" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;界面交互" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="280" y="140" width="640" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-36" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;接口调用" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="280" y="210" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-37" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;数据状态存储" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="500" y="210" width="420" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-38" value="axios" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="220" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-39" value="Vuex" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-40" value="LocalStorage" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="715" y="220" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-41" value="Vue.js" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="150" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-42" value="HTML5" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="477.5" y="150" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-43" value="CSS3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="150" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aptdi1Ga-n_UQpKlYxqR-44" value="TypeScript" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
