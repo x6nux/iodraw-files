@@ -108,13 +108,8 @@
         </mxCell>
         <mxCell id="H1_sub" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="670" as="sourcePoint" />
+            <mxPoint x="80" y="670" as="sourcePoint" />
             <mxPoint x="320" y="670" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H1_conn" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="H1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1_1" value="资产录入" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -132,7 +127,7 @@
             <mxPoint x="80" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H1_2_conn" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="H1_2_conn" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="H1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="670" as="sourcePoint" />
             <mxPoint x="200" y="700" as="targetPoint" />
