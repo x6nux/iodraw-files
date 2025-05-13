@@ -56,11 +56,6 @@
         <mxCell id="SuccessLabel" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="480" y="360" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="moduleConnector" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="G1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="modulesSplit" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="560" as="sourcePoint" />
@@ -79,7 +74,7 @@
         <mxCell id="I1" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="600" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I-line" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="I-line" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="G1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="560" as="sourcePoint" />
             <mxPoint x="480" y="600" as="targetPoint" />
