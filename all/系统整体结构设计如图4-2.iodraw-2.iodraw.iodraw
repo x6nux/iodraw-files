@@ -13,11 +13,16 @@
         <mxCell id="KvM0Xwn_I28mhd-elFdc-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KvM0Xwn_I28mhd-elFdc-18" target="KvM0Xwn_I28mhd-elFdc-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KvM0Xwn_I28mhd-elFdc-22" value="已登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KvM0Xwn_I28mhd-elFdc-21">
+          <mxGeometry x="-0.1706" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KvM0Xwn_I28mhd-elFdc-18" value="是否登录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KvM0Xwn_I28mhd-elFdc-20" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
