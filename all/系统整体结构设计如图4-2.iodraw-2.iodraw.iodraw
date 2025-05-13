@@ -16,8 +16,14 @@
         <mxCell id="KvM0Xwn_I28mhd-elFdc-3" value="首页模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KvM0Xwn_I28mhd-elFdc-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KvM0Xwn_I28mhd-elFdc-8" target="KvM0Xwn_I28mhd-elFdc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KvM0Xwn_I28mhd-elFdc-8" value="登录模块" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KvM0Xwn_I28mhd-elFdc-10" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="140" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
