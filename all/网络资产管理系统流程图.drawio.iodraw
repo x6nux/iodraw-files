@@ -193,7 +193,7 @@
           <mxGeometry x="610" y="700" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J1_2" value="配置权限" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="700" width="80" height="30" as="geometry" />
+          <mxGeometry x="720" y="700" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J1_3" value="权限审计" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="700" width="80" height="30" as="geometry" />
@@ -206,8 +206,8 @@
         </mxCell>
         <mxCell id="J1_2_conn" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="670" as="sourcePoint" />
-            <mxPoint x="790" y="700" as="targetPoint" />
+            <mxPoint x="760" y="670" as="sourcePoint" />
+            <mxPoint x="760" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J1_3_conn" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
