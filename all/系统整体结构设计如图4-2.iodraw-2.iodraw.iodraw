@@ -32,12 +32,7 @@
         </mxCell>
         <mxCell id="KvM0Xwn_I28mhd-elFdc-14" value="未登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KvM0Xwn_I28mhd-elFdc-13">
           <mxGeometry x="0.1206" y="-1" relative="1" as="geometry">
-            <mxPoint x="-24" y="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KvM0Xwn_I28mhd-elFdc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KvM0Xwn_I28mhd-elFdc-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="250" as="targetPoint" />
+            <mxPoint x="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KvM0Xwn_I28mhd-elFdc-10" value="是否登录" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
