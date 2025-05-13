@@ -233,8 +233,11 @@
             <mxPoint x="480" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CrRPFdTgsqD3QfDdHHDS-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K1_1" target="H1_3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K1_1" value="生成安装标识" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="750" width="90" height="30" as="geometry" />
+          <mxGeometry x="280" y="760" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K1_2" value="部署Agent" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="760" width="80" height="30" as="geometry" />
