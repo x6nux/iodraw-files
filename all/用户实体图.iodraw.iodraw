@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qc-PThqEU5D3QssbB8zo-5" value="电子邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="50" width="120" height="50" as="geometry" />
+          <mxGeometry x="110" y="60" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qc-PThqEU5D3QssbB8zo-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="Qc-PThqEU5D3QssbB8zo-8" source="Qc-PThqEU5D3QssbB8zo-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qc-PThqEU5D3QssbB8zo-8" value="用户状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="30" width="100" height="40" as="geometry" />
+          <mxGeometry x="250" y="30" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qc-PThqEU5D3QssbB8zo-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Qc-PThqEU5D3QssbB8zo-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qc-PThqEU5D3QssbB8zo-14" value="角色ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="30" width="100" height="40" as="geometry" />
+          <mxGeometry x="360" y="50" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qc-PThqEU5D3QssbB8zo-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="Qc-PThqEU5D3QssbB8zo-16" source="Qc-PThqEU5D3QssbB8zo-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
